@@ -1,0 +1,6 @@
+myenv/
+venv/
+__pycache__/
+*.pth
+*.h5
+*.pt
